@@ -1,0 +1,23 @@
+.height{
+  background-image: url("bg.jpg");
+  height:550px;
+  width:1225px;
+
+}
+.position{
+
+  position: :fixed;
+}
+.korkuportfolio{
+
+  font-size: 200%;
+  color: blue;
+}
+.texting{
+
+align:center;
+border:3px solid green;
+position:absolute;
+top:80px
+font-size: 200%;
+}
